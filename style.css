@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background: rgb(173, 173, 224);
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: antiquewhite;
+}
+
+p {
+    color: azure;
+    font-size: 40px;
+    text-align: center;
+    word-spacing: 75px;
+}
+
+.snowman {
+    text-align: right;
+    margin-top: -30px;
+    margin-right: 120px;
+    font-size: 160px;
+}
